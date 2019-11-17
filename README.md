@@ -1,5 +1,5 @@
 # ScalableEditText
-<img src="screens/demog.gif"/>
+<img src="screens/demo.gif"/>
 A Scalable EditText library for Android, which can be scaled by touching and dragging the edges of the EditText.
 
 ## Getting Started
